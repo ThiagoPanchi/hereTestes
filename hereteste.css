@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.material-icons {
+  text-decoration: none;
+  cursor: pointer;
+  padding-right: 8px;
+  color: white;
+}
